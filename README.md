@@ -3,3 +3,16 @@ Machine learning is the study of computer algorithms that improve automatically 
 <p align=center>
 <img src="images/ml-01.gif" width="400">
   </p>
+<details><summaery>contents</summary>
+## WEEK 1
+
+01 | 02 
+:-- | :--:
+INTRODUCTION | sdhchjds
+mncncm | jdchjhckhc
+ksckjsjkc| kchkjshc
+dkjckj | djchjkshc
+test | api
+plugins | wakatime
+test | pass
+test | failed
